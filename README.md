@@ -1,4 +1,4 @@
-# inventory-optimization-excel
+# Inventory-optimization-excel
 
 # Project Objective
 
