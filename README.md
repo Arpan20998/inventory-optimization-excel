@@ -6,7 +6,7 @@ To simulate demand variability and calculate optimal Safety Stock and Reorder Po
 
 # Tools Used
 
-Excel
+# Excel
 
 RAND() function
 
