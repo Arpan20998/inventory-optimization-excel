@@ -6,15 +6,9 @@ To simulate demand variability and calculate optimal Safety Stock and Reorder Po
 
 # Tools Used
 
-# Excel
+Excel
 
-RAND() function
 
-RANDBETWEEN(bottom, top)
-
-NORMSINV()
-
-Inventory formulas
 
 # Steps
 
@@ -28,7 +22,7 @@ Average demand
 
 Standard deviation
 
-Used service level to calculate Z-score
+Used service level to calculate Z-score using NORMSINV() function
 
 Calculated Safety Stock
 
